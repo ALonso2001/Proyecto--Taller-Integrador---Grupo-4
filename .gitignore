@@ -1,0 +1,14 @@
+# Altium temporary & backup folders
+History/
+Project Logs for */
+Project Outputs for */
+__History/
+
+# Altium cache and lock files
+*.Annotation
+*.PcbRpt
+*.SchDoc.Zip
+*.PcbDoc.Zip
+*.~Lock*
+*.CompileLog
+*.OutJob

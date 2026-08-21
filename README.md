@@ -1,13 +1,13 @@
 # Proyecto--Taller-Integrador---Grupo-4
 
-##Link Diagrama de Gantt:
+## Link Diagrama de Gantt:
 https://docs.google.com/spreadsheets/d/1RLvCeBbs8q7GYEhUyf99uF2kCLAGFvYE/edit?usp=sharing&ouid=103265704217449199971&rtpof=true&sd=true
 
 
-# ==============================================================================
-# JERARQUÍA Y ESTRUCTURA DEL PROYECTO
-# ==============================================================================
 
+## JERARQUÍA Y ESTRUCTURA DEL PROYECTO
+
+```text
 / (Raíz del Repositorio)
 ├── docs/                      # Documentación y hojas de datos
 │   ├── datasheets/            # Datasheets de componentes (MAX8510, APX812, etc.)

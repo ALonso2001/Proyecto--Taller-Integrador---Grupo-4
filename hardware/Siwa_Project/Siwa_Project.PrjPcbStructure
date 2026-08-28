@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=CLOCK.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CLOCK.SchDoc|FileName=Header.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CLOCK.SchDoc|FileName=Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CLOCK.SchDoc|FileName=Reset.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CLOCK.SchDoc|FileName=SPI.SchDoc|SheetNumber=2

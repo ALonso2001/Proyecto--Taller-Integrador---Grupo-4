@@ -6,6 +6,9 @@ https://docs.google.com/spreadsheets/d/1RLvCeBbs8q7GYEhUyf99uF2kCLAGFvYE/edit?us
 ## Documento Escrito
 https://prism.openai.com/?u=4f71073c-6474-493f-a1eb-b1f56d1139e6&pg=1&m=main.tex&d=7 
 
+## Retrospectiva_Sprints 
+https://docs.google.com/spreadsheets/d/1yZAs3TcN8QVUfOVWJbkrDeOPjbkcMm1C/edit?gid=1476389224#gid=1476389224
+
 
 ## JERARQUÍA Y ESTRUCTURA DEL PROYECTO
 
